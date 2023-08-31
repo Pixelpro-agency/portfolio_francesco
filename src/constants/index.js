@@ -176,8 +176,7 @@ import {
       name: "Silvia Torchio",
       designation: "CEO",
       company: "Mary Host",
-      image: "src/assets/company/torchio.png"
-      //image: "https://randomuser.me/api/portraits/women/4.jpg",
+      image: "src/assets/company/torchio.jpg"
     },
     {
       testimonial:
@@ -185,8 +184,7 @@ import {
       name: "Vincenzo Pandolfi",
       designation: "CEO",
       company: "Essebi Srl",
-      image: "src/assets/company/pandolfi.png"
-      //image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
@@ -194,8 +192,7 @@ import {
       name: "Carla Terlizzi",
       designation: "CEO",
       company: "Foods Delivery App",
-      image: "src/assets/company/terlizzi.png"
-      //image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
   
@@ -206,7 +203,7 @@ import {
         "Sito Web dell'azienda Pixelpro. Qui puoi visionare i nostri progetti, consultare il listino prezzi e i tempi di esecuzione dei lavori. Home page con animazione 3D.",
       tags: [
         {
-          name: "threejs",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
@@ -219,7 +216,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      live_demo_link: "https://pixelpro.cloud/",
     },
     {
       name: "Property Manager",
@@ -240,7 +237,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      live_demo_link: "https://mary-host.com/",
     },
     {
       name: "Real Estate",
@@ -261,7 +258,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      live_demo_link: "https://github.com/",
     },
   ];
   
